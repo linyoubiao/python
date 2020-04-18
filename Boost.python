@@ -1,1 +1,2 @@
 Using Boost.python, I can warp my c++ code into python and use it easy.
+通过Boost.python，可以完成c++代码为python所用，隐藏算法和处理过程。
