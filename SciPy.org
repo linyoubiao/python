@@ -1,0 +1,2 @@
+SciPy.org contain Numpy, SciPy, Pandas, Matplotlib and so on. Very Great!
+是一个重要的计算库，人工智能算法的基础。
